@@ -1,5 +1,5 @@
-html{
-  background-image: url("images/laptop.jpg") no-repeat center center fixed;
+body{
+  background: url("file:///U:/Web%20designs/creative_design/images/laptop.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
